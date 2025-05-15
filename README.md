@@ -10,7 +10,7 @@
 <img src="./static/figures/introduction.png" border=0 width=100%>
 
 ## 🧠 Dataset Summary
-**ScanBot** is a large-scale, multimodal dataset for studying instruction-driven surface scanning in industrial settings. Collected with a UR3 robotic arm and a KEYENCE LJ-X8200 laser profiler, ScanBot captures RGB-D images, laser point clouds, and 6-DOF robot trajectories for a variety of object features and scanning tasks.
+**ScanBot** is a dataset for instruction-conditioned, high-precision surface scanning with robots. Unlike existing datasets that focus on coarse tasks like grasping or navigation, ScanBot targets industrial laser scanning, where sub-millimeter accuracy and parameter stability are essential. It includes scanning trajectories across 12 objects and 6 task types, each driven by natural language instructions. The dataset provides synchronized RGB, depth, laser profiles, robot poses, and joint states.
 
 
 ## 📦 Use Cases
