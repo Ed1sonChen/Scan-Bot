@@ -62,5 +62,10 @@ Each scan is driven by an instruction that falls under one of the following task
 
 <img src="./static/figures/setup.png" alt="ScanBot Example" width="30%"/>
 
-### Version 1.0
+## Version 1.0
 The initial version of ScanBot contains 197 tasks, and involves 12 different objects.
+
+## 👨‍💻 Todo
+- [ ] Release the evaluation code
+- [ ] Release the paper
+- [ ] Release the curved scanning tasks
