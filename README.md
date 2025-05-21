@@ -16,7 +16,7 @@
 
 ## 📦 Use Cases
 
-- Vision-Language Action Planning (VLA)
+- Vision-Language Action (VLA)
 - Instruction-Guided Surface Scanning
 - 3D Surface Reconstruction
 - Spatial Reasoning and Feature Localization
