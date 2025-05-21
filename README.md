@@ -1,9 +1,10 @@
 # [ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems](https://ed1sonchen.github.io/ScanBot/)
 
-<!-- [![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0) -->
+[![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Project Page](https://img.shields.io/badge/Project%20Page-ScanBot-blue.svg)](https://ed1sonchen.github.io/ScanBot/)
-<!-- [![arXiv](https://badgen.net/badge/icon/arXiv?icon=awesome&label&color=red&style=flat-square)](https://arxiv.org/abs/2412.13877) -->
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-ScanBot-000000.svg)](https://huggingface.co/datasets/ed1son/ScanBot)
+
+<!-- [![arXiv](https://badgen.net/badge/icon/arXiv?icon=awesome&label&color=red&style=flat-square)](https://arxiv.org/abs/2412.13877) -->
 
 
 
@@ -62,7 +63,9 @@ Each scan is driven by an instruction that falls under one of the following task
 
 <img src="./static/figures/setup.png" alt="ScanBot Example" width="30%"/>
 
-## Version 1.0
+## 📖 Version Update
+
+### Version 1.0
 The initial version of ScanBot contains 197 tasks, and involves 12 different objects.
 
 ## 👨‍💻 Todo
