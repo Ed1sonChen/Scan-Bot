@@ -42,7 +42,7 @@ scanbot/
 ├── cube2
 ├── cylinder_red
 ├── cylinder_white
-├── cylinder_white
+└── ...
 ```
 
 ## 💬 Task Levels
