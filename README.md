@@ -1,10 +1,10 @@
 # [ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems](https://ed1sonchen.github.io/ScanBot/)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+[![arXiv](https://badgen.net/badge/icon/arXiv?icon=awesome&label&color=red&style=flat-square)](https://arxiv.org/pdf/2505.17295)
 [![Project Page](https://img.shields.io/badge/Project%20Page-ScanBot-blue.svg)](https://ed1sonchen.github.io/ScanBot/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-ScanBot-000000.svg)](https://huggingface.co/datasets/ed1son/ScanBot)
 
-<!-- [![arXiv](https://badgen.net/badge/icon/arXiv?icon=awesome&label&color=red&style=flat-square)](https://arxiv.org/abs/2412.13877) -->
 
 
 
