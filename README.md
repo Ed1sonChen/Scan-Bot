@@ -69,6 +69,6 @@ Each scan is driven by an instruction that falls under one of the following task
 The initial version of ScanBot contains 197 tasks, and involves 12 different objects.
 
 ## 👨‍💻 Todo
+- [x] Release the paper
 - [ ] Release the evaluation code
-- [ ] Release the paper
 - [ ] Release the curved scanning tasks
