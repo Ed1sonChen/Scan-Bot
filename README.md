@@ -10,6 +10,16 @@
 
 <img src="./static/figures/introduction.png" border=0 width=100%>
 
+
+## Latest Update
+
+- [2025-08-09] Released scanning ground-truth results dataset on [Hugging Face](https://huggingface.co/datasets/ed1son/ScanBot/tree/main). Includes .lhix and .pcd files for each feature
+- [2025-05-23] Release our flat scanning dataset on [Hugging Face](https://huggingface.co/datasets/ed1son/ScanBot)
+- [2025-05-22] Release our paper on [arxiv](https://arxiv.org/pdf/2505.17295)
+- [2025-05-17] Initial release
+
+
+
 ## 🧠 Dataset Summary
 **ScanBot** is a dataset for instruction-conditioned, high-precision surface scanning with robots. Unlike existing datasets that focus on coarse tasks like grasping or navigation, ScanBot targets industrial laser scanning, where sub-millimeter accuracy and parameter stability are essential. It includes scanning trajectories across 12 objects and 6 task types, each driven by natural language instructions. The dataset provides synchronized RGB, depth, laser profiles, robot poses, and joint states.
 
